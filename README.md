@@ -1,0 +1,3 @@
+# Insufficient Error Handling in Asynchronous Dart Code
+
+This repository demonstrates a common error in Dart: insufficient error handling within asynchronous functions using `async` and `await`. The provided example shows how a simple `try-catch` block can be improved to provide more specific and informative error messages for easier debugging and maintenance.  The solution offers better error handling, including more context-specific messages and logging.
